@@ -60,7 +60,7 @@ client.on("message", msg => {
     }
 
     if (cmd === "dice4") {
-        msg.edit("I rolled a  " + chance.d4() + "**")
+        msg.edit("I rolled a  **" + chance.d4() + "**")
     }
 
     if (cmd === "dice6") {
