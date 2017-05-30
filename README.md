@@ -7,7 +7,7 @@ A discord.js selfbot!
 3. Open a node.js command prompt and use command prompt to find the folder the file is in
 4. Do node opensourceselfbot.js in command prompt and the bot should launch
 
-**Info**
+**Info**:
 The prefix is /
 Commands are in the file.
 
