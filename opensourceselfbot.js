@@ -8,7 +8,7 @@ client.on('ready', () => {
     console.log('3')
     console.log('2') //Just to tell you that the bot is alive and running
     console.log('1')
-    console.log("Derpy's Selfbot is running!");
+    console.log("Selfbot is running!");
 });
 
 let shortcuts = new Map([
