@@ -27,7 +27,7 @@ let shortcuts = new Map([
 ])
 
 client.on("message", msg => {
-    if (msg.author.id != "INSERT USER ID HERE") { return; } //Read the GitHub page to learn how to get the ID
+    if (msg.author.id != bot.user.id) { return; } 
     let cmd = msg.content.split(" ")[0]
     cmd = cmd.slice(prefix.length)
     let args = msg.content.split(" ").slice(1)
