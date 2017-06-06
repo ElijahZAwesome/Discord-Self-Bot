@@ -3,7 +3,7 @@ A discord.js selfbot!
 
 **How to use**
 1. Make sure you have node.js installed, and run "npm install --save discord.js", "npm install --save chance" and "npm install --save chance.js" if you haven't already
-2. Open the file in a text editor that is NOT notepad (use Atom, Visual Studio Code, Notepad++ etc) and paste your token and ID where the comments say so
+2. Open the file in a text editor that is NOT notepad (use Atom, Visual Studio Code, Notepad++ etc) and paste your token where the comments say so (get this by going into Discord and doing ctrl + shift + I and then clicking the arrow in the top right corner and clicking application, then at the bottom should show you the token. DO NOT SHARE THIS WITH ANYONE)
 3. Open a node.js command prompt and use command prompt to find the folder the file is in
 4. Do node opensourceselfbot.js in command prompt and the bot should launch
 
