@@ -9,6 +9,9 @@ client.on('ready', () => {
     console.log('2') //Just to tell you that the bot is alive and running
     console.log('1')
     console.log("Selfbot is running!");
+    console.log("I am on " + client.guilds.size + " servers!")
+    console.log("Here are all the servers I am on:")
+    console.log(client.guilds.forEach(g => { console.log(g.name) }))
 });
 
 let shortcuts = new Map([
@@ -48,17 +51,13 @@ client.on("message", msg => {
     }
 
     if (cmd === "lines") {
-        msg.edit("My Selfbot has **119** lines of code!")
+        msg.edit("My Selfbot has **118** lines of code!")
     }
 
     if (cmd === "cheese") {
         msg.edit("CHEESE :cheese:")
     }
     //Most of the commands
-    if (cmd === "derp") {
-        msg.edit("Derpy Derp! :D")
-    }
-
     if (cmd === "dice4") {
         msg.edit("I rolled a  **" + chance.d4() + "**")
     }
