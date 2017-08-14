@@ -1,6 +1,8 @@
 # Discord-Self-Bot
 A discord.js selfbot!
 
+**NOTE: THIS SELFBOT IS OLD AND YOU WILL GET NO SUPPORT. THE NEW ONE IS HERE: https://github.com/TheSecretPenguin/discord-derpy-selfboat**
+
 **How to use**
 1. Make sure you have node.js installed, and run "npm install --save discord.js", "npm install --save chance" and "npm install --save chance.js" if you haven't already
 2. Open the file in a text editor that is NOT notepad (use Atom, Visual Studio Code, Notepad++ etc) and paste your token where the comments say so (get this by going into Discord and doing ctrl + shift + I and then clicking the arrow in the top right corner and clicking application, then at the bottom should show you the token. DO NOT SHARE THIS WITH ANYONE)
