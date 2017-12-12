@@ -1,7 +1,7 @@
 # Discord-Self-Bot
 A discord.js selfbot!
 
-**NOTE: THIS SELFBOT IS OLD AND YOU WILL GET NO SUPPORT. THE NEW ONE IS HERE: https://github.com/TheSecretPenguin/discord-derpy-selfboat**
+**NOTE: THIS SELFBOT IS OLD AND IS NO LONGER UPDATED. THE NEW ONE IS HERE: https://github.com/TheSecretPenguin/discord-derpy-selfboat**
 
 **How to use**
 1. Make sure you have node.js installed, and run "npm install --save discord.js", "npm install --save chance" and "npm install --save chance.js" if you haven't already
